@@ -1,0 +1,21 @@
+# coding: utf-8
+#adventurous places to go on holidays when you've no idea where to go
+
+ from time import sleep 
+
+  print("welcome to my code where i will tell you places to go on holidays,cheap holidays, far getaways and adventures that might possibly kill you")
+#introduction to code of what this is 
+
+answer=input('exploring, chill holiday,ireland, exotic places')
+
+    if answer=input("exploring"):
+	      print("Japan is breat right now there is everything there and the goverment are trying to make the country more affordable")
+	 
+	  elif answer=input("chill holiday"):
+	  	  print("Landmannalaugar in iceland is has an amazing area for hiking or anyone wanting a nice relaxing break")
+	  	  
+	  elif answer=input("Ireland"):
+	  	  print("Get down to kilkenny as it has so many things to do such as visting st Canice’s cathedral")
+	 
+	   elif answer=input("exotic places");
+	      print("maui Hawaii everywhere in maui is know as the valley isle and is famous for its sunsets")
